@@ -6,3 +6,13 @@
     border: 2px solid purple;
     border-radius: 5px;
 }
+.vietnam{
+    border: 2px solid green;
+    width: 100px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    background-image: url(../images/Vietnam\ Flag.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
