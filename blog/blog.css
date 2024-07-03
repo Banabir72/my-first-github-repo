@@ -1,0 +1,11 @@
+.head{
+    font-weight:bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    border: 2px solid purple;
+    border-radius: 5px;
+    background-image: url(../images/OurTeam.jpeg);
+    background-position: center;
+}
